@@ -3,11 +3,17 @@
 ## PERSONAL INFORMATION
 
 Name:			Ali Haider
+
 Date of Birth:		15-05-1998
+
 Address:		Civil Line Jail Road FSD
+
 Mobile:		0315-5584338
+
 Email:			ali74576@gmail.com
+
 LinkedIn Profile:	https://www.linkedin.com/in/ali-haidar-70a024136/
+
 GitHub:		https://github.com/alihaider11?tab=repositories
 
 ## PROFILE
