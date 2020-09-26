@@ -60,7 +60,7 @@ I’m a Software Engineer and I’m a fresh graduate from The University of Fais
 
 •	Freelancer
 
-https://www.upwork.com/freelancers/~01cc7c0d7f875f9448
+https://www.fiverr.com/techsolutions33
 
 ## 2020 – Present 		 Upwork
 
