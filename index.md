@@ -1,37 +1,61 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/alihaider11/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## PERSONAL INFORMATION
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Name:			Ali Haider
+Date of Birth:		15-05-1998
+Address:		Civil Line Jail Road FSD
+Mobile:		0315-5584338
+Email:			ali74576@gmail.com
+LinkedIn Profile:	https://www.linkedin.com/in/ali-haidar-70a024136/
+GitHub:		https://github.com/alihaider11?tab=repositories
 
-### Markdown
+## PROFILE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I’m a Software Engineer and I’m a fresh graduate from The University of Faisalabad, Pakistan with 3.28 CGPA. I’m currently working as a Freelancer on Upwork.com and I’ve developed many projects but I’m looking for a company where I can grow my skills to next level and participate with other team to build awesome projects.  
 
-```markdown
-Syntax highlighted code block
+## SKILLS 
+ Windows Development
+•	C#
+•	Win-Forms / WPF
+Web Design & Dev
+•	HTML5 / CSS3
+•	JS / JQUERY / ES6
+•	REACT JS
+•	Bootstrap 4
+•	Asp. Net Core MVC, Razor Pages
+Database
+•	SQL Server
+•	Azure SQL
+•	My SQL
+•	Transact SQL
+Cloud
+•	Azure
+•	Microsoft Cognitive Services 
 
-# Header 1
-## Header 2
-### Header 3
+## FREELANCING EXPERIENCE
 
-- Bulleted
-- List
+## 2020 – Present 		 Upwork
+•	Freelancer
+https://www.upwork.com/freelancers/~01cc7c0d7f875f9448
+EDUCATION 
+ 2016 – Present 	   BS (Software Engineering)
+            THE UNIVERSITY OF FAISALABAD
+•	Passed BS(SE) with CGPA: 3.28
+CERTIFICATIONS
+•	Build Your First Web Pages with HTML and CSS by OpenClassRoom
+•	Build web apps with ReactJS by OpenClassRoom
+•	Learn to Code with JavaScript by OpenClassRoom
+•	Certificate of Appreciation by Facebook Developer Circles
+•	Windows Application Development using visual C# by C# Corner
+## EXTRACURRICULAR ACTIVITIES
+2018 			 TechHawk 4.0 (TUF Event)
+•	Speed Programming (Winner)
+2019			 Jazba 2019 (NFC Event)
+•	Speed Programming (Runner-up)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alihaider11/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## INTEREST & ADDITIONAL INFORMATION
+I have an eager to learn new tools, techniques to build solution that helpful for Individuals or Business. I’ve learned a lot of things in my Freelancing carrier like problem solving, research, communication, managing resource. 
+I’m an active member of Facebook Developer Circle Faisalabad and Developer Circle is a community of Developers around the world, I’ve been attending the Facebook events for developer circle and I learned a lot from this community.
+I recently join Microsoft Virtual Internship program to grow my skills.
+More I got Microsoft Azure Scholarship course on Udacity.
