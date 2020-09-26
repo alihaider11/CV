@@ -20,31 +20,47 @@ I’m a Software Engineer and I’m a fresh graduate from The University of Fais
 
 ## SKILLS 
 
-Windows Development
+## Windows Development
 
 •	C#
+
 •	Win-Forms / WPF
 
-Web Design & Dev
+## Web Design & Dev
 
 •	HTML5 / CSS3
+
 •	JS / JQUERY / ES6
+
 •	REACT JS
+
 •	Bootstrap 4
+
 •	Asp. Net Core MVC, Razor Pages
 
-Database
+## Database
 
 •	SQL Server
+
 •	Azure SQL
+
 •	My SQL
+
 •	Transact SQL
 
-Cloud
+## Cloud
+
 •	Azure
+
 •	Microsoft Cognitive Services 
 
 ## FREELANCING EXPERIENCE
+
+## 2019 – Present 		 Fiverr
+
+•	Freelancer
+
+https://www.upwork.com/freelancers/~01cc7c0d7f875f9448
 
 ## 2020 – Present 		 Upwork
 
@@ -54,11 +70,12 @@ https://www.upwork.com/freelancers/~01cc7c0d7f875f9448
 
 ## EDUCATION 
  
- 2016 – Present 	   BS (Software Engineering)
+ 2016 – 2020 	   BS (Software Engineering)
  
  THE UNIVERSITY OF FAISALABAD
 
 •	Passed BS(SE) with CGPA: 3.28
+
 ## CERTIFICATIONS
 
 •	Build Your First Web Pages with HTML and CSS by OpenClassRoom
