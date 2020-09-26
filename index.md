@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ## PERSONAL INFORMATION
 
 Name:			Ali Haider
@@ -21,20 +19,27 @@ GitHub:		https://github.com/alihaider11?tab=repositories
 I’m a Software Engineer and I’m a fresh graduate from The University of Faisalabad, Pakistan with 3.28 CGPA. I’m currently working as a Freelancer on Upwork.com and I’ve developed many projects but I’m looking for a company where I can grow my skills to next level and participate with other team to build awesome projects.  
 
 ## SKILLS 
- Windows Development
+
+Windows Development
+
 •	C#
 •	Win-Forms / WPF
+
 Web Design & Dev
+
 •	HTML5 / CSS3
 •	JS / JQUERY / ES6
 •	REACT JS
 •	Bootstrap 4
 •	Asp. Net Core MVC, Razor Pages
+
 Database
+
 •	SQL Server
 •	Azure SQL
 •	My SQL
 •	Transact SQL
+
 Cloud
 •	Azure
 •	Microsoft Cognitive Services 
@@ -42,22 +47,38 @@ Cloud
 ## FREELANCING EXPERIENCE
 
 ## 2020 – Present 		 Upwork
+
 •	Freelancer
+
 https://www.upwork.com/freelancers/~01cc7c0d7f875f9448
-EDUCATION 
+
+## EDUCATION 
+ 
  2016 – Present 	   BS (Software Engineering)
-            THE UNIVERSITY OF FAISALABAD
+ 
+ THE UNIVERSITY OF FAISALABAD
+
 •	Passed BS(SE) with CGPA: 3.28
-CERTIFICATIONS
+## CERTIFICATIONS
+
 •	Build Your First Web Pages with HTML and CSS by OpenClassRoom
+
 •	Build web apps with ReactJS by OpenClassRoom
+
 •	Learn to Code with JavaScript by OpenClassRoom
+
 •	Certificate of Appreciation by Facebook Developer Circles
+
 •	Windows Application Development using visual C# by C# Corner
+
 ## EXTRACURRICULAR ACTIVITIES
+
 2018 			 TechHawk 4.0 (TUF Event)
+
 •	Speed Programming (Winner)
+
 2019			 Jazba 2019 (NFC Event)
+
 •	Speed Programming (Runner-up)
 
 ## INTEREST & ADDITIONAL INFORMATION
