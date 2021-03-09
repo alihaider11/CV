@@ -26,6 +26,12 @@ I’m a Software Engineer and I’m a fresh graduate from The University of Fais
 
 •	Win-Forms / WPF
 
+• MVVM architectural pattern
+
+• Entity Framework
+
+• ADO .NET
+
 ## Web Design & Dev
 
 •	HTML5 / CSS3
@@ -36,7 +42,7 @@ I’m a Software Engineer and I’m a fresh graduate from The University of Fais
 
 •	Bootstrap 4
 
-•	Asp. Net Core MVC, Razor Pages
+•	Asp. Net Core MVC
 
 ## Database
 
